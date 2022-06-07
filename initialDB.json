@@ -1,0 +1,25 @@
+[
+    {
+    "Id" : 0,
+    "title" : "청운대학교",
+    "department" : "멀티미디어학과",
+    "year" : 2022,
+    "reviews" : []
+    },
+    
+    {
+    "Id" : 1,
+    "title" : "인하대학교",
+    "department" : "컴퓨터학과",
+    "year" : 2022,
+    "reviews" : []
+    },
+    
+    {
+    "Id" : 0,
+    "title" : "인천대학교",
+    "department" : "정보통신학과",
+    "year" : 2022,
+    "reviews" : []
+    }
+    ]
